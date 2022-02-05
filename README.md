@@ -1,7 +1,7 @@
 # -Crow-Bots-leak
 **[+] official ζ͜͡Crow Bots**
 
-how use?
+how to use?
 
 *run start.bat*
 
